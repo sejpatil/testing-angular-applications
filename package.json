@@ -3,13 +3,13 @@
   "version": "1.1.0",
   "description": "[![CircleCI Status](https://circleci.com/gh/testing-angular-applications/testing-angular-applications.svg?style=shield)](https://circleci.com/gh/testing-angular-applications/testing-angular-applications)",
   "main": "index.js",
-  "dependencies": {
+  "devDependencies": {
     "standard-version": "^9.5.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version"
+    "snapshot": "standard-version --prerelease snapshot"
   },
   "repository": {
     "type": "git",
