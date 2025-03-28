@@ -1,6 +1,6 @@
 {
   "name": "testing-angular-applications",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "[![CircleCI Status](https://circleci.com/gh/testing-angular-applications/testing-angular-applications.svg?style=shield)](https://circleci.com/gh/testing-angular-applications/testing-angular-applications)",
   "main": "index.js",
   "dependencies": {
@@ -23,4 +23,3 @@
   },
   "homepage": "https://github.com/sejpatil/testing-angular-applications#readme"
 }
-
